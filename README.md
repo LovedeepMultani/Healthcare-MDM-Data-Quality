@@ -10,18 +10,23 @@ The initial focus is on the **Healthcare Professional (HCP)** domain, with addit
 
 ## Business Objective
 
-Healthcare organizations depend on trusted master data for analytics, operations, compliance, and downstream business processes.
+## Business Value
 
-The objective of this project is to:
+This project demonstrates how healthcare organizations can establish a measurable Data Quality framework around critical master data.
 
-* Assess healthcare master data quality across multiple dimensions
-* Identify data-quality exceptions at record and attribute level
-* Apply business and technical validation rules
-* Analyze duplicate and potential-match records
-* Measure data accuracy against a trusted reference dataset
-* Assess referential integrity across master and transactional data
-* Build an interactive Power BI Data Quality dashboard
-* Demonstrate how SQL-based DQ analysis can support enterprise MDM and data governance
+The solution is designed to help data stewards and MDM teams:
+
+* Identify critical data-quality issues at record and attribute level
+* Quantify the impact of poor data quality
+* Prioritize remediation based on business impact
+* Identify potential duplicate and conflicting master records
+* Detect broken relationships between transactional and master data
+* Monitor stale and incomplete master records
+* Provide business users with an interactive Data Quality dashboard
+* Establish repeatable data-quality rules that can be operationalized within an MDM program
+
+The approach combines technical validation with an MDM perspective, moving beyond simple profiling toward **issue identification, investigation, measurement, and remediation prioritization**.
+
 
 ## Data Domains
 
